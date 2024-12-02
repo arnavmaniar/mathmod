@@ -1,0 +1,58 @@
+Event,Year,Popularity,Accessibility,Gender_Ratio,Sustainability,Inclusivity,Relevance,Safety,Label,Prediction
+Aquatics Artistic Swimming,2020,0,0,0,1.210326343,0,4.225005599,2.554877661,0,1
+Aquatics Artistic Swimming,2024,0,0,0,4.094267251,0,3.677400029,2.013715087,0,1
+Aquatics Artistic Swimming,2028,0,0,0,1.270647593,0,2.954108519,1.642376071,1,1
+Baseball and Softball Baseball,2020,0,0,0,2.827251269,0,3.069393719,3.372001075,1,1
+Baseball and Softball Baseball,2024,0,0,0,4.836663,0,1.933694107,3.633529039,0,0
+Baseball and Softball Baseball,2028,0,0,0,2.113369437,0,1.039740799,1.452009749,0,0
+Basketball 3x3,2020,0,0,0,4.926067131,0,3.212368923,2.116089307,1,1
+Basketball 3x3,2024,0,0,0,1.325296975,0,2.721623201,2.902731722,0,1
+Basketball 3x3,2028,0,0,0,3.614838025,0,4.362579328,3.50835813,0,1
+Canoeing Sprint,2020,0,0,0,3.793525837,0,4.832260103,4.024771338,1,1
+Canoeing Sprint,2024,0,0,0,4.047008362,0,2.396063545,2.159156449,0,1
+Canoeing Sprint,2028,0,0,0,4.18304196,0,3.058189478,2.845369158,0,1
+Cycling BMX Freestyle,2020,0,0,0,4.404318469,0,2.941468451,2.152394496,1,1
+Cycling BMX Freestyle,2024,0,0,0,2.683810909,0,1.100070867,2.707446035,1,1
+Cycling BMX Freestyle,2028,0,0,0,3.032198231,0,2.804469918,4.4642535,1,1
+Equestrian Dressage,2020,0,0,0,4.157628613,0,3.343799609,1.815447626,1,1
+Equestrian Dressage,2024,0,0,0,3.61920749,0,3.814407006,2.945139085,1,1
+Equestrian Dressage,2028,0,0,0,3.981718488,0,3.978503284,3.858421268,1,0
+Gymnastics Artistic,2020,0,0,0,1.820686872,0,3.927322535,4.389233843,1,1
+Gymnastics Artistic,2024,0,0,0,4.634737125,0,2.713424546,2.95758146,1,1
+Gymnastics Artistic,2028,0,0,0,1.935320778,0,1.420001206,1.465961002,0,0
+Handball Indoor,2020,0,0,0,2.547057072,0,1.017403268,1.194192112,0,0
+Handball Indoor,2024,0,0,0,4.415161463,0,4.493402389,3.832572145,0,0
+Handball Indoor,2028,0,0,0,4.289155674,0,4.848273628,2.558068521,1,1
+Lacrosse Sixes,2020,0,0,0,1.143824234,0,3.405513925,2.310420894,1,1
+Lacrosse Sixes,2024,0,0,0,3.122750049,0,2.987190935,3.689129008,1,0
+Lacrosse Sixes,2028,0,0,0,1.388004503,0,3.862777756,4.46501238,1,1
+Rowing Coastal,2020,0,0,0,4.71002185,0,1.740660089,1.486398017,1,0
+Rowing Coastal,2024,0,0,0,1.63311671,0,1.342921288,4.023088257,1,1
+Rowing Coastal,2028,0,0,0,4.028601437,0,2.388998072,3.507374294,1,1
+Rugby Sevens,2020,0,0,0,3.833042321,0,2.596981735,4.093351068,1,1
+Rugby Sevens,2024,0,0,0,1.981942925,0,4.40483145,2.13399886,0,1
+Rugby Sevens,2028,0,0,0,2.473230078,0,3.76162026,4.699904523,0,0
+Volleyball Beach,2020,0,0,0,4.190913831,0,2.152475916,3.447955279,0,1
+Volleyball Beach,2024,0,0,0,3.15764318,0,1.270016979,1.136185229,0,0
+Volleyball Beach,2028,0,0,0,4.988665971,0,2.842560373,1.551464004,1,1
+Wrestling Freestyle,2020,0,0,0,3.349834414,0,2.905566151,3.543786563,0,0
+Wrestling Freestyle,2024,0,0,0,1.439509601,0,4.160142725,1.542513364,1,1
+Wrestling Freestyle,2028,0,0,0,2.649172443,0,3.380251481,1.218298469,0,0
+Skating Figure,2020,0,0,0,2.616000537,0,3.833164834,2.600639215,1,1
+Skating Figure,2024,0,0,0,2.7324361,0,1.498499224,3.554449866,0,0
+Skating Figure,2028,0,0,0,1.93524267,0,3.450426053,4.109800673,1,1
+HiMCM_Olympic_Data Data set of current and discontinued summer program.,2020,0,0,0,2.242763845,0,2.347017258,4.803266952,0,0
+HiMCM_Olympic_Data Data set of current and discontinued summer program.,2024,0,0,0,1.026481341,0,2.112277902,3.310268821,1,1
+HiMCM_Olympic_Data Data set of current and discontinued summer program.,2028,0,0,0,1.234455842,0,2.024398858,2.693645707,1,1
+Sport and Discipline:  The sports (and disciplines) make up the current and discontinued Summer Olympic Games official program and are listed alphabetically according to the name used by the IOC. ,2020,0,0,0,4.268044571,0,4.480599568,3.605093737,0,0
+Sport and Discipline:  The sports (and disciplines) make up the current and discontinued Summer Olympic Games official program and are listed alphabetically according to the name used by the IOC. ,2024,0,0,0,4.414790906,0,3.996875049,1.433175812,0,0
+Sport and Discipline:  The sports (and disciplines) make up the current and discontinued Summer Olympic Games official program and are listed alphabetically according to the name used by the IOC. ,2028,0,0,0,3.065623737,0,3.703002611,3.047571825,1,1
+Code:  Each discipline is marked with a unique 3-character identifier code by the IOC. ,2020,0,0,0,4.083644141,0,4.169426782,3.632489163,0,0
+Code:  Each discipline is marked with a unique 3-character identifier code by the IOC. ,2024,0,0,0,1.304255079,0,2.939645144,2.354633668,0,1
+Code:  Each discipline is marked with a unique 3-character identifier code by the IOC. ,2028,0,0,0,2.411648972,0,4.545296227,3.764086085,0,0
+Sports Governing Body: A listing of the sports governing bodies associated with Olympic sports.,2020,0,0,0,2.195943307,0,4.5927464,2.926609017,1,1
+Sports Governing Body: A listing of the sports governing bodies associated with Olympic sports.,2024,0,0,0,2.329686931,0,4.851880989,3.730883265,0,0
+Sports Governing Body: A listing of the sports governing bodies associated with Olympic sports.,2028,0,0,0,2.603356333,0,4.049244412,2.040922258,1,1
+1896 – 2028:  The four number code in each column represents the year of the associated Olympic Games. ,2020,0,0,0,4.403700545,0,3.52005496,2.054463415,1,1
+1896 – 2028:  The four number code in each column represents the year of the associated Olympic Games. ,2024,0,0,0,1.447412986,0,4.053314607,2.188570879,0,1
+1896 – 2028:  The four number code in each column represents the year of the associated Olympic Games. ,2028,0,0,0,2.813162366,0,1.200170108,2.884718351,1,1
